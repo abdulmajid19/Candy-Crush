@@ -1,4 +1,4 @@
-# Cnady-Crush
+# Candy-Crush
 ## Candy crush game is easy and fun
 
 
